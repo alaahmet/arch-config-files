@@ -1,2 +1,2 @@
 my own config files.
-Currently running endevaour os with bspWM.
+Currently running Endevaour OS with bspWM.
